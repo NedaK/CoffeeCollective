@@ -1,6 +1,6 @@
 # Coffee Collective
 
-[Coffee Collective Link](https://nedak.github.io/Team4/ "Team4 Link")
+[Coffee Collective Link]( https://nedak.github.io/CoffeeCollective/ "CC Link")
 
 ## Description
 This application gives users access to Top Rated coffee shops within the greater Sacramento Area. The ratings reflect user 'non-negotiables,' such as Wifi/work space, variety of food and beverage, and parking convenience.
